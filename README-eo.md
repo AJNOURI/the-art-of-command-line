@@ -505,7 +505,7 @@ These are items relevant *only* on OS X.
 - To get OS X release information, use `sw_vers`.
 
 
-## More resources
+## Pli da fontoj
 
 - [awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of shell tools and resources.
 - [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line): A more in-depth guide for the OS X command line.
@@ -514,13 +514,13 @@ These are items relevant *only* on OS X.
 - [Filenames and Pathnames in Shell](http://www.dwheeler.com/essays/filenames-in-shell.html): The sadly complex minutiae on how to handle filenames correctly in shell scripts.
 
 
-## Disclaimer
+## Malgarantio
 
-With the exception of very small tasks, code is written so others can read it. With power comes responsibility. The fact you *can* do something in Bash doesn't necessarily mean you should! ;)
+Escepte kalkaj malgrandaj taskoj, la kodo estas skiribita por esti legebla de ĉiuj. Respondeco akompanas la povon. Tio kio fareblas en Baŝo ne nepre farendas! ;)
 
 
-## License
+## Rajtigilo
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+Ĉi tiu laboro estas rajtigita sub [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
