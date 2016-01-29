@@ -70,9 +70,9 @@ Notes:
 - Learn to use `apt-get`, `yum`, `dnf` or `pacman` (depending on distro) to find and install packages. And make sure you have `pip` to install Python-based command-line tools (a few below are easiest to install via `pip`).
 
 
-## Everyday use
+## Ĉiutaga uzado
 
-- In Bash, use **Tab** to complete arguments or list all available commands and **ctrl-r** to search through command history (after pressing, type to search, press **ctrl-r** repeatedly to cycle through more matches, press **Enter** to execute the found command, or hit the right arrow to put the result in the current line to allow editing).
+- Ĉe baŝo, uzu **Tab** por kompleti argumentojn aŭ liston de ĉiuj disponeblaj komandoj kaj **ctrl-r** por serĉi tra komandhistorio (preminte **ctrl-r**, tajpu kion vi volas serĉi kaj premu **ctrl-r** multfoje por pli da serĉoj, premu **Enter** por plenumi la trovitan komandon, aŭ premu la dekstran sagon por meti la rezulton en la aktuala linio kaj ebligi redakti ĝin).
 
 - In Bash, use **ctrl-w** to delete the last word, and **ctrl-u** to delete all the way back to the start of the line. Use **alt-b** and **alt-f** to move by word, **ctrl-a** to move cursor to beginning of line,  **ctrl-e** to move cursor to end of line, **ctrl-k** to kill to the end of the line, **ctrl-l** to clear the screen. See `man readline` for all the default keybindings in Bash. There are a lot. For example **alt-.** cycles through previous arguments, and **alt-*** expands a glob.
 
