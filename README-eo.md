@@ -507,11 +507,11 @@ These are items relevant *only* on OS X.
 
 ## Pli da fontoj
 
-- [awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of shell tools and resources.
-- [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line): A more in-depth guide for the OS X command line.
-- [Strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/) for writing better shell scripts.
-- [shellcheck](https://github.com/koalaman/shellcheck): A shell script static analysis tool. Essentially, lint for bash/sh/zsh.
-- [Filenames and Pathnames in Shell](http://www.dwheeler.com/essays/filenames-in-shell.html): The sadly complex minutiae on how to handle filenames correctly in shell scripts.
+- [awesome-shell](https://github.com/alebcay/awesome-shell): Organizita listo de ŝeliloj kaj fontoj.
+- [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line): Plidetala gvidilo por OS X komandlinio.
+- [Strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/) Por skribi pliefikaj skriptoj.
+- [shellcheck](https://github.com/koalaman/shellcheck): Statika analizilo de ŝelskriptoj. Ĉefe por bash/sh/zsh.
+- [Filenames and Pathnames in Shell](http://www.dwheeler.com/essays/filenames-in-shell.html): Bedaŭrinda komplika detalo pri kiel korekte uzi dosiernomojn en ŝelskriptoj.
 
 
 ## Malgarantio
